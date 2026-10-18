@@ -5,11 +5,11 @@
     "name": "FlowUI-原神",
     "description": "包含 12 张原神壁纸，时钟样式可自定义，息屏与亮屏之间的过渡经过调整，衔接比较自然；后续角色可以私信提出。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
